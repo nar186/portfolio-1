@@ -71,8 +71,3 @@ a:hover {
 a:active {
   color: rgb(0, 0, 255);
 }
-.pageContainer:after { 
-  content: " ";
-  display: table;
-  clear: both;
-}
